@@ -6,4 +6,4 @@ Trabajo de estadistica usando R como lenguaje de scripting para el estudio de do
 Estudio estadistico de dos muestras independientes entre si
 * Graficas de los tests
 * Scripts en R de los tests y comparaciones
-* Informe con conlusion
+* Informe con conlusiones
